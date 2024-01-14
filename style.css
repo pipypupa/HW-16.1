@@ -1,0 +1,9 @@
+.bg-box {
+  height: 700px;
+  background-color: green;
+  background-image: url(./images/green.png), url(./images/lamp.png),
+    url(./images/ponchik.png), url(./images/ezhik.webp), url(./images/dom.jpg);
+  background-size: 200px, 50px, 70px, 70px, 450px;
+  background-position: bottom, top, right, left, center;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y, no-repeat;
+}
